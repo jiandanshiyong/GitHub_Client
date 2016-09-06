@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (3.4.1)
+  - Kingfisher (2.4.1)
+  - MBProgressHUD (0.9.2)
+  - Moya (6.5.0):
+    - Moya/Core (= 6.5.0)
+  - Moya/Core (6.5.0):
+    - Alamofire (~> 3.0)
+    - Result (~> 2.0)
+  - ObjectMapper (1.3.0)
+  - Result (2.1.2)
+  - SnapKit (0.15.0)
+  - SwiftDate (2.0.2)
+  - UMengSocialCOM (5.2.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - MBProgressHUD
+  - Moya (= 6.5.0)
+  - ObjectMapper
+  - SnapKit (~> 0.15.0)
+  - SwiftDate (~> 2.0)
+  - UMengSocialCOM (~> 5.2.1)
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  Kingfisher: 41aed5b6c1ed8fa98cf6d75283ce89cf7890f517
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  Moya: f7a4044719381cc6299f9ad3e0ef05f426f0557b
+  ObjectMapper: 4eb08a726e9791a93b2632049951b56a7c17e471
+  Result: 6e722d4a66b1408680dbfcdf51c0b1c4b706316a
+  SnapKit: 4962eed2ee18e48cbd2b2292fffc57efe7235f87
+  SwiftDate: b4f4d0962afe48365ad2800c9850a6626deb9359
+  UMengSocialCOM: 074c135ce349aa4c8848d3fb8458757bcb6ffb67
+
+PODFILE CHECKSUM: 474c1949d5131f20e06654fe636cd2c96a8b14f1
+
+COCOAPODS: 1.0.1

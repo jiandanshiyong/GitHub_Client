@@ -1,0 +1,13 @@
+use_frameworks!
+
+target :"YZGithubClient"  do
+    pod 'SnapKit', '~> 0.15.0'  # autolayou库
+    pod 'Alamofire'				# 网络库
+    pod 'Kingfisher'			# 图片缓存
+    pod 'ObjectMapper'			# model映射
+    pod 'MBProgressHUD'         # hud动画
+    pod 'Moya', '6.5.0'         # 网络层封装 Alamofire
+    pod 'UMengSocialCOM', '~> 5.2.1'   # 友盟分享
+    pod 'SwiftDate', '~> 2.0'     ##https://github.com/malcommac/SwiftDate  日期转换库
+    
+end
